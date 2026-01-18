@@ -40,7 +40,7 @@ This block implements a BCD-to-7-segment decoder using combinational AND, OR, an
 <!--![Decimal to BCD table.](docs/BCD_Decimal.png)-->
 <p align="center">
   <img src="docs/BCD_Decimal.png" width="250"><br>
-  <em>BCD-to-7-segment decoder implemented using combinational logic.</em>
+  <em>Decimal to BCD table.</em>
 </p>
 
 ## Modules Included
