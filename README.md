@@ -37,7 +37,11 @@ This circuit selects a digit from a 4-bit input using multiplexers and a compara
 ![RTL view of the BCD to 7 segment RTL block.](docs/Segment_decoder.png)
 This block implements a BCD-to-7-segment decoder using combinational AND, OR, and inverter logic to generate the correct segment outputs (seg[6:0]) and digit enable signals (an[7:0]) for displaying decimal digits using the table shown below. 
 
-![Decimal to BCD table.](docs/BCD_Decimal.png)
+<!--![Decimal to BCD table.](docs/BCD_Decimal.png)-->
+<p align="center">
+  <img src="docs/BCD_Decimal.png" width="600"><br>
+  <em>BCD-to-7-segment decoder implemented using combinational logic.</em>
+</p>
 
 ## Modules Included
 
